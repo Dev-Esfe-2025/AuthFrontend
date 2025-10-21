@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36310.24 d17.14
+VisualStudioVersion = 17.14.36310.24
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrontAuth.WebApp", "FrontAuth.WebApp\FrontAuth.WebApp.csproj", "{9E85F2E1-5CB9-4738-880A-4F17C3806055}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrontAuth.WebApp.TestUI", "FrontAuth.WebApp.TestUI\FrontAuth.WebApp.TestUI.csproj", "{1F97ED20-7147-4587-8721-93685FCECECE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9E85F2E1-5CB9-4738-880A-4F17C3806055}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E85F2E1-5CB9-4738-880A-4F17C3806055}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E85F2E1-5CB9-4738-880A-4F17C3806055}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F97ED20-7147-4587-8721-93685FCECECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F97ED20-7147-4587-8721-93685FCECECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F97ED20-7147-4587-8721-93685FCECECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F97ED20-7147-4587-8721-93685FCECECE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
